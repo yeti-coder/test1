@@ -18,3 +18,6 @@ def main():
 
     print(pwd)
 main()
+
+def testfunc():
+    pass
